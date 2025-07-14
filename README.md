@@ -81,4 +81,6 @@ The **Decision Tree Classifier** was selected for this project due to its balanc
 ## 👤 Author
 
 **K Rishika**  
+Data Science | Machine Learning | Data Analytics
+
 
